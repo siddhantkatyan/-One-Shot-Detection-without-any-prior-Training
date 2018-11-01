@@ -1,0 +1,6 @@
+## One Shot Detection without any prior Training using Locally Adaptive Regression Kernels and Fast Matrix Cosine Similarity
+
+
+This is an implementation of the idea drawn from a few of the 2015 papers published in TPAMI:
+
+
